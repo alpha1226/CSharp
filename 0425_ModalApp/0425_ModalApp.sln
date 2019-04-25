@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0425_ModalApp", "0425_ModalApp\0425_ModalApp.csproj", "{16875A04-8839-46C2-9078-5842C7827988}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16875A04-8839-46C2-9078-5842C7827988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16875A04-8839-46C2-9078-5842C7827988}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16875A04-8839-46C2-9078-5842C7827988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16875A04-8839-46C2-9078-5842C7827988}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F220180-8FC9-4B77-B00D-10C94F06CCA9}
+	EndGlobalSection
+EndGlobal
