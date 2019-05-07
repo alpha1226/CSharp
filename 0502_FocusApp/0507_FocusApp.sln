@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0507_FocusApp", "0502_FocusApp\0507_FocusApp.csproj", "{A685BB4F-0685-4EBA-91B9-0D3545910991}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A685BB4F-0685-4EBA-91B9-0D3545910991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A685BB4F-0685-4EBA-91B9-0D3545910991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A685BB4F-0685-4EBA-91B9-0D3545910991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A685BB4F-0685-4EBA-91B9-0D3545910991}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3794D37E-A2CB-4AF8-AEB5-4B38BDD5D0C6}
+	EndGlobalSection
+EndGlobal

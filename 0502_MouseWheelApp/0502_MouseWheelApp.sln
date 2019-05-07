@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0502_MouseWheelApp", "0502_MouseWheelApp\0502_MouseWheelApp.csproj", "{2CC1F5B5-8253-4B6C-BBB1-9FFEF640B551}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CC1F5B5-8253-4B6C-BBB1-9FFEF640B551}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CC1F5B5-8253-4B6C-BBB1-9FFEF640B551}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CC1F5B5-8253-4B6C-BBB1-9FFEF640B551}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CC1F5B5-8253-4B6C-BBB1-9FFEF640B551}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {201528DE-CD16-48E9-A53D-6BAB12FD8F23}
+	EndGlobalSection
+EndGlobal
