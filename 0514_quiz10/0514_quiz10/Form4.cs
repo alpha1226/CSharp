@@ -19,14 +19,9 @@ namespace _0514_quiz10
 
         private void Form4_KeyUp(object sender, KeyEventArgs e)
         {
-            if (e.Alt == true) flag = 0;
-            if (e.Control == true) flag = 0;
-            if (e.Shift == true) flag = 0;
-
-
-
+            
         }
-        int flag = 0;
+
         private void Form4_KeyDown(object sender, KeyEventArgs e)
         {
             if (e.Shift == true && e.KeyCode != Keys.ShiftKey)
