@@ -133,6 +133,7 @@
             this.MinimizeBox = false;
             this.Name = "Form1";
             this.Text = "프로세스 보기";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ssBar.ResumeLayout(false);
             this.ssBar.PerformLayout();

@@ -163,5 +163,13 @@ namespace _0904_ProcessView
             this.tsslCpu.Text = "CPU 사용 : " + m.ToString() + "%";
             this.tsslMem.Text = "실제 메모리 : " + n.ToString() + "%";
         }
+
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            if (!(ProcessThread == null))
+                ProcessThread.Abort();
+            if (!(checkThread == null))
+                checkThread.Abort();
+        }
     }
 }
